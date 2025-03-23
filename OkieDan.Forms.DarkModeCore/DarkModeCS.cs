@@ -12,7 +12,7 @@ using System.Diagnostics;
 using System.Xml.Linq;
 
 
-namespace BlueMystical.Forms.DarkModeCore;
+namespace OkieDan.Forms.DarkModeCore;
 
 /// <summary>This tries to automatically apply Windows Dark Mode (if enabled) to a Form.
 /// <para>Author: BlueMystic (bluemystic.play@gmail.com)  2024</para></summary>

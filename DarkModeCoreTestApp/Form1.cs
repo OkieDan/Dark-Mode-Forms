@@ -1,4 +1,4 @@
-using BlueMystical.Forms.DarkModeCore;
+using OkieDan.Forms.DarkModeCore;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

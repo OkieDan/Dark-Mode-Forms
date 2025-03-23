@@ -1,4 +1,4 @@
-using BlueMystical.Forms.DarkModeNet;
+using OkieDan.Forms.DarkModeNet;
 using System.Windows.Forms;
 
 namespace DarkModeForms
@@ -126,12 +126,12 @@ namespace DarkModeForms
             this.label1 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.newProgressBar1 = new BlueMystical.Forms.DarkModeNet.FlatProgressBar();
+            this.newProgressBar1 = new OkieDan.Forms.DarkModeNet.FlatProgressBar();
             this.label11 = new System.Windows.Forms.Label();
-            this.flatComboBox1 = new BlueMystical.Forms.DarkModeNet.FlatComboBox();
+            this.flatComboBox1 = new OkieDan.Forms.DarkModeNet.FlatComboBox();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
-            this.flatTabControl1 = new BlueMystical.Forms.DarkModeNet.FlatTabControl();
+            this.flatTabControl1 = new OkieDan.Forms.DarkModeNet.FlatTabControl();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.panel1.SuspendLayout();

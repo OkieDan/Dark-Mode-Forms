@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace BlueMystical.Forms.DarkModeCore;
+namespace OkieDan.Forms.DarkModeCore;
 
 public class FlatTabControl : TabControl
 {
