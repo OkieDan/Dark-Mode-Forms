@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<OutputType>Library</OutputType>
+		<RootNamespace>OkieDan.Forms.DarkModeCore</RootNamespace>
+		<AssemblyName>OkieDan.Forms.DarkModeCore</AssemblyName>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageId>OkieDan.Forms.DarkModeCore</PackageId>
+		<Version>8.0.0</Version>
+		<Authors>OkieDan</Authors>
+		<Company></Company>
+		<Description>Dark mode for Winforms .Net Core</Description>
+		<PackageTags>darkmode;windows;forms</PackageTags>
+		<RepositoryUrl>https://your-private-repo-url</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+	</PropertyGroup>
+	<ItemGroup>
+		<Compile Update="FlatComboBox.cs">
+			<SubType>Component</SubType>
+		</Compile>
+		<Compile Update="FlatProgressBar.cs">
+			<SubType>Component</SubType>
+		</Compile>
+		<Compile Update="FlatTabControl.cs">
+			<SubType>Component</SubType>
+		</Compile>
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+		<PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+	</ItemGroup>
+</Project>

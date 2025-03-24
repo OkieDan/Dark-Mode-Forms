@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-namespace BlueMystical.Forms.DarkModeNet
+namespace OkieDan.Forms.DarkModeNet
 {
 	// *** CREDITS:  https://github.com/r-aghaei/FlatComboExample/tree/master
 

@@ -1,4 +1,4 @@
-using BlueMystical.Forms.DarkModeCore;
+using OkieDan.Forms.DarkModeCore;
 using System.Windows.Forms;
 
 namespace DarkModeCoreTestApp
