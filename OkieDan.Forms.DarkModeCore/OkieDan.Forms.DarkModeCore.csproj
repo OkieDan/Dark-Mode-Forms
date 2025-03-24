@@ -14,7 +14,7 @@
 		<Company></Company>
 		<Description>Dark mode for Winforms .Net Core</Description>
 		<PackageTags>darkmode;windows;forms</PackageTags>
-		<RepositoryUrl>https://your-private-repo-url</RepositoryUrl>
+		<RepositoryUrl>https://github.com/OkieDan/Dark-Mode-Forms</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 	</PropertyGroup>
 	<ItemGroup>
@@ -27,9 +27,5 @@
 		<Compile Update="FlatTabControl.cs">
 			<SubType>Component</SubType>
 		</Compile>
-	</ItemGroup>
-	<ItemGroup>
-		<PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
-		<PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
 	</ItemGroup>
 </Project>
